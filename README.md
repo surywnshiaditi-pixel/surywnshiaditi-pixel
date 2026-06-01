@@ -1,16 +1,47 @@
-## Hi there 👋
+# 👋 Hi, I'm [Your Name]
 
-<!--
-**surywnshiaditi-pixel/surywnshiaditi-pixel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech IT | 3rd Year Student
 
-Here are some ideas to get you started:
+🤖 Passionate about Artificial Intelligence & Machine Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Skilled in Python, SQL, HTML, CSS & Data Structures & Algorithms
+
+🏆 Participated in Hackathons and built multiple projects
+
+👨‍💼 Former Competitive Programming Coordinator (7 Months)
+
+---
+
+## 🚀 Current Focus
+
+- Learning AI/ML and Deep Learning
+- Improving DSA and Problem Solving Skills
+- Building Real-World Projects
+- Exploring Open Source Contributions
+
+---
+
+## 🛠️ Tech Stack
+
+- Python
+- SQL
+- HTML
+- CSS
+- Git & GitHub
+- Data Structures & Algorithms
+
+---
+
+## 📈 Goals for 2025
+
+- Strengthen AI/ML skills
+- Build impactful projects
+- Contribute to Open Source
+- Secure a great internship
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: [Your LinkedIn]
+- Email: your.email@example.com
